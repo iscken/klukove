@@ -12,6 +12,7 @@ a {
 }
 body {
   background: rgba(36, 25, 25, 0.79);
+  color: red;
 }
 /* .menu {
   padding-top: 50px;
